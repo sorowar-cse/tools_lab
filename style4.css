@@ -1,0 +1,57 @@
+
+
+
+* {
+    margin: 5px;
+    padding: 12px;
+}
+
+#nav {
+    background-color: rgb(235, 222, 222);
+}
+.navbar-brand img, .kocu img {
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+}
+#nav a{
+    text-decoration: none;
+}
+
+.carousel-item img {
+    height: 575px;
+    width: 100%;
+    border-radius: 20%;
+}
+
+#carouselExampleDark {
+    background-color: antiquewhite;
+}
+
+.mycard, .ok {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgoldenrod ;
+}
+
+.kocu {
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    width: 750px;
+}
+
+.right img{
+    margin-left: 375px;
+}
+
+#Subscribe {
+    height: 250px;
+    background-color: aquamarine;
+}
+
+.footer {
+    text-align: center;
+}
+
+
