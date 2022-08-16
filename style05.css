@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 3px;
+}
+
+nav {
+    background-color: black;
+    text-align: end;
+}
+
+nav a {
+    color: aliceblue;
+    font-size: 35px;
+    margin-left: 5px;
+    padding: 10px;
+    border-radius: 30%;
+}
+.full {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    flex-grow: 40%;
+}
+
+.right img {
+ width: 100%;
+}
